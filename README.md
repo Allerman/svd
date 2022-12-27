@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Este é um "pequeno" projeto pessoal. Onde vou desenvolver um web commerce para uma gráfica.
 
-Things you may want to cover:
 
 * Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    3.0.2p107
