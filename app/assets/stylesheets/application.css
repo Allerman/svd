@@ -1,3 +1,27 @@
+body{
+    background-color: #ECECEC;
+    color:#000000;
+    font-size: 12px ;
+}
+
+.S{
+    color: #D22766;
+    font-style: jua;
+		font-family: arial, sans-serif;
+ 
+}
+.V{
+    color: #01ADEF;
+    font-style: jua;
+		font-family: arial, sans-serif;
+}
+
+.D{
+    color: #FFF003;
+    font-style: jua;
+		font-family: arial, sans-serif;
+}
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
