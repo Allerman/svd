@@ -1,8 +1,8 @@
 # SVD
 
-Este é um "pequeno" projeto pessoal, ainda em desenvolvimento. Onde vou desenvolver um web commerce para uma gráfica.
+Este é um projeto ainda em desenvolvimento para atenter os clientes da SVD com um web commerce. Fornecendo agilidade e modernidade.
 
-O conceito inicial é fazer uma lista de desejos ou uma lista de serviços deste gráfica onde o cliente iria escolher, solicitar e esperar o serviço ficar pronto.
+O conceito inicial é fazer uma lista de desejos ou uma lista de serviços que a SVD ofereçe, e entao o cliente ira escolher, solicitar e esperar o serviço ser finalizado e em seguida entrega.
 
 * Ruby version
    >ruby-3.0.2 
